@@ -1,7 +1,5 @@
 import './App.css';
-import Pagination from './Components/Pagination '
-
-
+import Pagination from './components/Pagination';
 
 function App() {
   return (
